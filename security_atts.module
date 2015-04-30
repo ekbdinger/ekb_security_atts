@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the security_atts feature.
+ */
+
+include_once 'security_atts.features.inc';
